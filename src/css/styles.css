@@ -1,9 +1,3 @@
-/**
-  |============================
-  | include css partials with
-  | default @import url()
-  |============================
-*/
 /* Common styles */
 @import url('./reset.css');
 @import url('./base.css');
@@ -125,8 +119,6 @@
   background-color: #f44336;
   color: white;
 }
-
-/* FORM STYLES */
 
 form {
   display: flex;
